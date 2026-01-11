@@ -1,0 +1,95 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #cfe8cf;
+  font-family: Tahoma, Arial, sans-serif;
+  font-size: 12px;
+  color: #003300;
+}
+
+#page {
+  width: 760px;
+  margin: 0 auto;
+  background: #ffffff;
+}
+
+#header {
+  background: #5fa9dd url('../img/bg-header.png') repeat-x;
+  color: #ffffff;
+  padding: 15px;
+}
+
+#header h1 {
+  margin: 0;
+  font-size: 28px;
+}
+
+.tagline {
+  font-size: 12px;
+}
+
+#content {
+  padding: 10px;
+}
+
+.box {
+  background: #f4fff4;
+  border: 1px solid #9ac89a;
+  margin-bottom: 10px;
+  padding: 8px;
+}
+
+.box h3 {
+  margin: 0 0 5px 0;
+  font-size: 13px;
+  color: #006600;
+}
+
+.menu {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.menu li {
+  margin-bottom: 4px;
+}
+
+.menu a {
+  text-decoration: none;
+  color: #0066cc;
+}
+
+.menu a:hover {
+  text-decoration: underline;
+}
+
+textarea {
+  width: 95%;
+  font-family: Tahoma, Arial;
+  font-size: 12px;
+}
+
+.btn {
+  background: url('../img/btn.png') repeat-x;
+  border: 1px solid #3a7f3a;
+  padding: 4px 10px;
+  font-size: 12px;
+  cursor: pointer;
+}
+
+.post {
+  background: #ffffff;
+}
+
+.post-author {
+  font-size: 11px;
+  color: #555555;
+}
+
+#footer {
+  text-align: center;
+  font-size: 11px;
+  color: #666666;
+  padding: 10px;
+}
